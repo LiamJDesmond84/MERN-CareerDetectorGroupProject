@@ -5,10 +5,14 @@
 *Front End:*
         - Lisa Chen
         - Harish Sathisan
+https://github.com/lisa-chen-58
+https://github.com/xterra111
 
 *Back End:*
+        - Harpreet Mann
         - Liam Desmond
-        - Harpreet Mann'
+https://github.com/hjanjua90
+https://github.com/LiamJDesmond84
 
 Although we have dedicated areas for team members, we have all touched on a little bit of all aspects of this project and therefore were not confined to the areas that are written above.
 
